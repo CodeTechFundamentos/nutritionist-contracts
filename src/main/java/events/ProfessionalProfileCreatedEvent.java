@@ -7,5 +7,5 @@ import org.axonframework.modelling.command.TargetAggregateIdentifier;
 public class ProfessionalProfileCreatedEvent {
     private String id;
     private String professional_experience_description;
-    private Integer nutritionistId;
+    private String nutritionistId;
 }
