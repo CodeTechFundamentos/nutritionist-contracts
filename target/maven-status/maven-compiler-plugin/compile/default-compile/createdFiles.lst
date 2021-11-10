@@ -1,0 +1,14 @@
+queries\GetNutritionistsQuery.class
+events\NutritionistUpdatedEvent.class
+command\CreateNutritionistC.class
+events\ProfessionalProfileUpdatedEvent.class
+result\ProfessionalProfileResult.class
+result\ProfessionalProfileUpdatedResult.class
+command\CreateProfessionalProfileC.class
+result\NutritionistResult.class
+result\NutritionistUpdatedResult.class
+events\NutritionistCreatedEvent.class
+queries\GetProfessionalProfilesQuery.class
+command\UpdateNutritionistC.class
+command\UpdateProfessionalProfileC.class
+events\ProfessionalProfileCreatedEvent.class
